@@ -1,11 +1,10 @@
-
-<!DOCTYPE html>
+トンピンフィナンシャル　CEO 山田　亨
 <html lang="ja">
 <head>
 <!-- 必填的Open Graph协议 -->
-<meta property="og:title" content="6月の急騰株情報">
+<meta property="og:title" content="798月の急騰株情報">
 <meta property="og:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta property="og:image" content="https://pbs.twimg.com/profile_images/1930949324516761600/qX3sngR7_400x400.jpg"> 
+<meta property="og:image" content="https://pbs.twimg.com/media/Gsw72IsbAAAv_LC?format=png&name=small"> 
 <meta property="og:url" content="https://您的完整网页URL">
 
 <!-- Twitter专用标签 -->
@@ -17,7 +16,7 @@
 <meta name="twitter:url" content="https://您的完整网页URL">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>トンピンの投資道</title>
+  <title>トンピンの龙之道</title>
   <style>
     * {
       margin: 0;
@@ -210,7 +209,7 @@
       <div class="hero-content">
         <img src="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg" alt="トンピンのアイコン" class="avatar">
         <h1>トンピンの投資道</h1>
-        <p>17.6万人想草文龙のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！</p>
+        <p>17.6万人想草文龙文龙高兴的跳起来！</p>
         <a href="https://works.do/FZNkDGG" target="_blank" class="cta-button">LINEで友達追加</a>
       </div>
     </section>
