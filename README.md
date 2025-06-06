@@ -2,17 +2,17 @@
 <html lang="ja">
 <head>
 <!-- 必填的Open Graph协议 -->
-<meta property="og:title" content="798月の急騰株情報">
-<meta property="og:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta property="og:image" content="https://pbs.twimg.com/profile_images/1755491691904307200/33aS7Fz8_400x400.jpg"> 
+<meta property="og:title" content="6月急x想学龙之道请添加我">
+<meta property="og:description" content="17.6万龙制霸市場を制覇！！！">
+<meta property="og:image" content="https://pbs.twimg.com/profile_images/1930991008919281665/Zsmb7Cza_400x400.jpg"> 
 <meta property="og:url" content="https://您的完整网页URL">
 
 <!-- Twitter专用标签 -->
 <meta name="twitter:card" content="summary"> <!-- 关键修改！ -->
 <meta name="twitter:site" content="@Tonpin1234">
-<meta name="twitter:title" content="6月の急騰株情報">
+<meta name="twitter:title" content="6月急x想学龙之道请添加我">
 <meta name="twitter:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1755491691904307200/33aS7Fz8_400x400.jpg"> 
+<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1930991008919281665/Zsmb7Cza_400x400.jpg"> 
 <meta name="twitter:url" content="https://您的完整网页URL">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -207,7 +207,7 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-content">
-        <img src="https://pbs.twimg.com/profile_images/1755491691904307200/33aS7Fz8_400x400.jpg" alt="トンピンのアイコン" class="avatar">
+        <img src="https://pbs.twimg.com/profile_images/1930991008919281665/Zsmb7Cza_400x400.jpg" alt="トンピンのアイコン" class="avatar">
         <h1>龙之道</h1>
         <p>17.6万人想草文龙文龙高兴的跳起来！</p>
         <a href="https://works.do/FZNkDGG" target="_blank" class="cta-button">LINEで友達文龙追加</a>
@@ -216,11 +216,11 @@
 
     <!-- Achievements Section -->
     <section class="achievements">
-      <h2>トンピンの輝く実績</h2>
+      <h2>猎龙 驯龙 调教龙</h2>
       <div class="achievement-grid">
         <div class="achievement-card">
           <h3>7352 TWOSTONE</h3>
-          <p>2025年1Q経商利益4800%増、文龙很急騰を的確に予測！</p>
+          <p>2025年文龙很急！在线等！</p>
         </div>
         <div class="achievement-card">
           <h3>3133 海帆</h3>
@@ -228,7 +228,7 @@
         </div>
         <div class="achievement-card">
           <h3>コミュニティ影響力</h3>
-          <p>Xで17.6万フォロワー、市場を動かす発言力！</p>
+          <p>Xで17.6万为龙发声！</p>
         </div>
       </div>
     </section>
@@ -244,7 +244,7 @@
     <!-- Footer -->
     <section class="footer">
       <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Tonpin1234">X公式アカウント</a></p>
-      <p>本ページは情報提供のみを目的とし、投資推奨ではありません。投資是文龙自己的責任で行ってください。</p>
+      <p>投資是文龙自己的責任で行ってください。</p>
     </section>
   </div>
 
