@@ -4,7 +4,7 @@
 <!-- 必填的Open Graph协议 -->
 <meta property="og:title" content="798月の急騰株情報">
 <meta property="og:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta property="og:image" content="https://pbs.twimg.com/media/Gsw72IsbAAAv_LC?format=png&name=small"> 
+<meta property="og:image" content="https://pbs.twimg.com/profile_images/1755491691904307200/33aS7Fz8_400x400.jpg"> 
 <meta property="og:url" content="https://您的完整网页URL">
 
 <!-- Twitter专用标签 -->
@@ -12,7 +12,7 @@
 <meta name="twitter:site" content="@Tonpin1234">
 <meta name="twitter:title" content="6月の急騰株情報">
 <meta name="twitter:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg"> 
+<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1755491691904307200/33aS7Fz8_400x400.jpg"> 
 <meta name="twitter:url" content="https://您的完整网页URL">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -207,10 +207,10 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-content">
-        <img src="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg" alt="トンピンのアイコン" class="avatar">
+        <img src="https://pbs.twimg.com/profile_images/1755491691904307200/33aS7Fz8_400x400.jpg" alt="トンピンのアイコン" class="avatar">
         <h1>龙之道</h1>
         <p>17.6万人想草文龙文龙高兴的跳起来！</p>
-        <a href="https://works.do/FZNkDGG" target="_blank" class="cta-button">LINEで友達追加</a>
+        <a href="https://works.do/FZNkDGG" target="_blank" class="cta-button">LINEで友達文龙追加</a>
       </div>
     </section>
 
@@ -244,7 +244,7 @@
     <!-- Footer -->
     <section class="footer">
       <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Tonpin1234">X公式アカウント</a></p>
-      <p>本ページは情報提供のみを目的とし、投資推奨ではありません。投資は自己責任で行ってください。</p>
+      <p>本ページは情報提供のみを目的とし、投資推奨ではありません。投資是文龙自己的責任で行ってください。</p>
     </section>
   </div>
 
