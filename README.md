@@ -208,7 +208,7 @@
     <section class="hero">
       <div class="hero-content">
         <img src="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg" alt="トンピンのアイコン" class="avatar">
-        <h1>トンピンの投資道</h1>
+        <h1>龙之道</h1>
         <p>17.6万人想草文龙文龙高兴的跳起来！</p>
         <a href="https://works.do/FZNkDGG" target="_blank" class="cta-button">LINEで友達追加</a>
       </div>
@@ -220,7 +220,7 @@
       <div class="achievement-grid">
         <div class="achievement-card">
           <h3>7352 TWOSTONE</h3>
-          <p>2025年1Q経商利益4800%増、株価急騰を的確に予測！</p>
+          <p>2025年1Q経商利益4800%増、文龙很急騰を的確に予測！</p>
         </div>
         <div class="achievement-card">
           <h3>3133 海帆</h3>
